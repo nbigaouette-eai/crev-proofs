@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-10-01T11:13:40.681192-04:00"
+from:
+  id-type: crev
+  id: CK6KiH-fFFiHCHOmG7bNOHooVL8ujCavQ7yfkcqxUDQ
+  url: "https://github.com/nbigaouette-eai/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde-humantime
+  version: 0.1.1
+  digest: zfyyTloDetCvhkskwRBcm80UEzl7KDCsfN9FNJ6xLiI
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |
+  
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+1JqeL1F9RdV9WKWZi-VPUr2YYda716PqmDeIvGKrakPcww7D-FGDWidS2lf0yW66MDw5jq2AS3BHib8-pdTCAw
+-----END CREV PACKAGE REVIEW-----
+
