@@ -15,3 +15,19 @@ comment: "Initial trust from 'cargo crev' README https://github.com/crev-dev/car
 SQ9zZvyPRh8tYM4YjHevqm4UmmiZDvCt_-iUZEETlSjoCGiw1bM5Ovw-1jmKqhVKQcy92zkJS0rS-hb4UU4PBQ
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-01T11:18:26.076340-04:00"
+from:
+  id-type: crev
+  id: CK6KiH-fFFiHCHOmG7bNOHooVL8ujCavQ7yfkcqxUDQ
+  url: "https://github.com/nbigaouette-eai/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: high
+-----BEGIN CREV TRUST SIGNATURE-----
+CO8B7XVEc2TGh9KiIbtODrkmMVLq3yvsvM9csDZWq-FeAtLoxztmzTJoPLZhO6YtXI6af5HGvYEQVyrcVpnHDg
+-----END CREV TRUST-----
+
