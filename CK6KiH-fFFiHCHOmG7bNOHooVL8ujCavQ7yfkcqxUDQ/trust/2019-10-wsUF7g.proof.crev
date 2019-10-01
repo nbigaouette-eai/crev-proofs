@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-01T11:03:45.153652-04:00"
+from:
+  id-type: crev
+  id: CK6KiH-fFFiHCHOmG7bNOHooVL8ujCavQ7yfkcqxUDQ
+  url: "https://github.com/nbigaouette-eai/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: "Initial trust from 'cargo crev' README https://github.com/crev-dev/cargo-crev/blob/master/cargo-crev/src/doc/getting_started.md#running"
+-----BEGIN CREV TRUST SIGNATURE-----
+SQ9zZvyPRh8tYM4YjHevqm4UmmiZDvCt_-iUZEETlSjoCGiw1bM5Ovw-1jmKqhVKQcy92zkJS0rS-hb4UU4PBQ
+-----END CREV TRUST-----
+
